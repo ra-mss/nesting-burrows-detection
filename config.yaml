@@ -1,0 +1,7 @@
+path: /Users/USER/Desktop/DS/ML/madrigueras_model
+train: images/train
+val: images/train
+
+#Classes
+names:
+  0: M
